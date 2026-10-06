@@ -1,8 +1,8 @@
-# Week 8 – Testing, Documentation and Final Project Submission
+# Week 9 – Testing, Documentation and Final Project Submission
 
 ## Overview
 
-During Week 8 of my internship, I focused on testing, documenting, and preparing my Face Recognition Attendance System for final submission. The main objective was to verify the working of the system, check its performance under different conditions, and organize the project for GitHub.
+During Week 9 of my internship, I focused on testing, documenting, and preparing my Face Recognition Attendance System for final submission. The main objective was to verify the working of the system, check its performance under different conditions, and organize the project for GitHub.
 
 I tested the face recognition and attendance functionalities, checked the handling of unknown faces and duplicate entries, and documented the implementation, technologies, and results.
 
